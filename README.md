@@ -1,1 +1,1 @@
-Python course
+python exceptions
