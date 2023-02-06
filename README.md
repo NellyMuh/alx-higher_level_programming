@@ -1,1 +1,1 @@
-python exceptions
+inheritance in python
